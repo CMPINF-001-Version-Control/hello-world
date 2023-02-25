@@ -44,3 +44,7 @@ Your name in reverse is: eoD nhoJ
 ## Note
 
 - The script uses Python's string slicing feature (`[::-1]`) to reverse the user's name.
+
+## Licensing
+
+Since the program is so simple and has already been written by others many times, we found no need for any form of liscensing which credits the creators. We also have no issues with the program being used or modified in any way, including commercially. Our needs (or lack thereof) perfectly fit the unlicense license.
